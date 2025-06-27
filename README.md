@@ -8,14 +8,14 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con un fuerte i
 
 - 🎓 Actualmente curso el 5º semestre de mi carrera.
 - 💻 Mi lenguaje principal es **Java**, pero también exploro JavaScript, Node.js y SQL.
-- 🐧 Usuario de **Linux Mint y Arch Linux**, fan del software libre y la personalización del entorno de trabajo.
+- 🐧 Usuario de **Linux Mint**, fan del software libre y la personalización del entorno de trabajo.
 - 📸 Fuera del código, me interesa la fotografía, el diseño visual y el aprendizaje autodidacta.
 
 ---
 
 ## ⚙️ Tecnologías que uso
 
-- **Lenguajes:** Java · JavaScript · SQL · HTML · CSS
+- **Lenguajes:** Java · JavaScript · SQL · HTML · CSS · C# · Python  
 - **Herramientas:** Git · GitHub · PostgreSQL · Swing · Node.js · VS Code · NetBeans
 - **Sistemas operativos:** Linux Mint · Arch Linux · Windows 11
 - **Otros:** Diseño de interfaces · CLI · Terminal · Diagramas con Mermaid.js
